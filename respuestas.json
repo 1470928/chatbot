@@ -1,0 +1,44 @@
+{
+    "respuestas": [
+        {
+            "mensaje": "Ubicados en el Colegio Vargas Guerra, junto a Tottus.",
+            "palabras_clave": ["donde", "1", "ubicados", "direccion", "ubicacion"],
+            "respuesta_simple": true
+        },
+        {
+            "mensaje": "Las clases comienzan a las 12:45 AM.",
+            "palabras_clave": ["horario", "2", "clases", "hora", "empiezan"],
+            "respuesta_simple": true
+        },
+        {
+            "mensaje": "Las materias son matemáticas, comunicación, inglés y otras.",
+            "palabras_clave": ["asignatura", "3", "cursos", "interesa", "materias"],
+            "respuesta_simple": true
+        },
+        {
+            "mensaje": "El examen es la próxima semana.",
+            "palabras_clave": ["examen", "4", "prueba", "evaluacion", "nota"],
+            "respuesta_simple": true
+        },
+        {
+            "mensaje": "Si tienes alguna duda, consulta al profesor.",
+            "palabras_clave": ["ayuda", "5", "duda", "profesor", "consulta"],
+            "respuesta_simple": true
+        },
+        {
+            "mensaje": "El colegio abre a las 7:00 AM y cierra a las 6:00 PM.",
+            "palabras_clave": ["horario", "6", "apertura", "cierre", "colegio", "escuela"],
+            "respuesta_simple": true
+        },
+        {
+            "mensaje": "Para inscribirte, debes traer tu DNI y llenar un formulario.",
+            "palabras_clave": ["inscripcion", "7", "registrarse", "matricula", "ingresar"],
+            "respuesta_simple": true
+        },
+        {
+            "mensaje": "El pago de la mensualidad debe hacerse antes del día 10 de cada mes.",
+            "palabras_clave": ["pago", "8", "mensualidad", "cuota", "dinero"],
+            "respuesta_simple": true
+        }
+    ]
+}
